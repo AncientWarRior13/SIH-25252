@@ -6,7 +6,7 @@ CampusVersa is a role-based, real-time Unified Education Platform developed as p
 
 The platform is designed to solve fragmentation in academic data, poor communication flows, and lack of real-time visibility across stakeholders.
 
----
+--
 
 ## 2. System Actors & Responsibilities
 
